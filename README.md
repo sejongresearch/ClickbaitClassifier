@@ -5,7 +5,6 @@ Clickbait Classsifier
 
 #### 계획 변경
 > **1. 계획 변경 전**
-
 **2. 계획 변경 후**
 
 
