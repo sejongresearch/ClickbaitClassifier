@@ -25,7 +25,7 @@ Clickbait Classsifier
 ---------
 + **데이터 로드 및 전처리**
   - csv 파일을 github에서 불러오기
-  - Word2Vex와 FastText를 이용하여 데이터 
+  - Word2Vex와 FastText를 이용하여 데이터 전처리
 
 + **모델 제작**
   - 6월 첫째 주까지 코드 분석 과정에서 발견한 오류 수정을 통해 모델 제작하여 깃허브에 코드 업로드
