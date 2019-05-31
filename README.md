@@ -13,7 +13,12 @@ Clickbait Classsifier
 
 + **모델 조사**
   - Yoon Kim(2014)의 [**Convolutional Neural Networks for Sentence Classification**](https://arxiv.org/pdf/1408.5882.pdf)
+    * CNN을 텍스트 처리에 응용한 연구
   - 워드 임베딩 모델 (**Word2Vex, FastText**)
+    * 단어를 벡터로 표현하는 대표적인 방법
+  
++ **코드 분석**
+  - [링크](https://github.com/2alive3s/Fake_news/tree/master/train)에서 affine 관련 코드 3개와 train 코드에 대해 직접 주석을 달며 
 
 전체 계획대비 진행
 -----------------
