@@ -18,7 +18,7 @@ Clickbait Classsifier
     * 단어를 벡터로 표현하는 대표적인 방법
   
 + **코드 분석**
-  - [링크](https://github.com/2alive3s/Fake_news/tree/master/train)에서 affine 관련 코드 3개와 train 코드에 대해 직접 주석을 달며 
+  - 기존 프로젝트에서 CNN을 활용해 작성한 affine 관련 코드 3개와 train 코드에 대해 직접 주석을 달며 분석
 
 전체 계획대비 진행
 -----------------
