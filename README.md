@@ -13,7 +13,7 @@ Clickbait Classsifier
 
 + **모델 조사**
   - Yoon Kim(2014)의 [**Convolutional Neural Networks for Sentence Classification**](https://arxiv.org/pdf/1408.5882.pdf)
-  - 워드 임베딩 모델(**Word2Vex, FastText**)
+  - 워드 임베딩 모델 (**Word2Vex, FastText**)
 
 전체 계획대비 진행
 -----------------
