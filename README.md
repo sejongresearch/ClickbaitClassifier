@@ -5,8 +5,8 @@ Clickbait Classsifier
 ---------------
 
 + **계획 변경**
-  - 기존 참고 논문 내용 중 특징 추출 부분에서 큰 어려움이 있어, 같은 주제지만 [다른 방법론](https://github.com/2alive3s/Fake_news/blob/master/%5BJIPS%5DFake%20news%20detection%20using%20deep%20learning.pdf)으로 변경
-  - [역할 분담](https://github.com/rjhwang08/Clickbait-Classsifier/issues/2) 재조정
+  - 기존 참고 논문 내용 중 특징 추출 부분에서 큰 어려움이 있어, 같은 주제지만 CNN모델을 텍스트 처리에 이용한[Yoon Kim(2014) CNN](https://github.com/2alive3s/Fake_news/blob/master/%5BJIPS%5DFake%20news%20detection%20using%20deep%20learning.pdf)으로 변경
+  - 역할 분담 재조정
 
 + **역할 분담(~5/31)**
   - 황정현 : Yoon Kim의 CNN 모델 공부, 깃헙 관리 및 중간보고서 작성
