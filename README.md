@@ -61,6 +61,8 @@ Clickbait Classsifier
 + **역할 분담**
   - 데이터 로드 및 전처리(황정현)
   - 모델 제작 : 코드 분석 및 정리, 버그 수정(이현지, 최지연, 서예진)
+  
++ [**완성 코드**](https://colab.research.google.com/drive/1BSX-1oyDBI0riyJSEBz4JhJPy9o2ke4C)
 
 진행 계획(~6/16)
 ---------------
