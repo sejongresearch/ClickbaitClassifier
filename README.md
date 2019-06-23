@@ -77,8 +77,12 @@ Clickbait Classsifier
   - CNN -> Accuracy : 0.47
   - APS -> Accuracy : 0.49
   - LSTM -> Accuracy : 0.41
+  
 + **모델 성능 개선 실패**
   - 학습데이터 오버피팅문제 해결 실패 : 적절한 validation 찾기 실패
   - Layer 더 쌓기 실패 : colab의 RAM 용량 초과
   - 각종 파라미터 조정 : 큰 영향 없었음
-  
+
++ **논문 및 발표자료**
+  - [논문]()
+  - [발표자료]()
