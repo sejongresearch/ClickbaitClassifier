@@ -85,4 +85,4 @@ Clickbait Classsifier
 
 + **논문 및 발표자료**
   - [논문](https://github.com/sejongresearch/ClickbaitClassifier/blob/master/%EA%B8%B0%EB%A0%88%EA%B8%B0%ED%86%B5%20%EB%85%BC%EB%AC%B8.pdf)
-  - [발표자료](https://github.com/rjhwang08/Clickbait-Classifier/blob/master/%EA%B8%B0%EB%A0%88%EA%B8%B0%ED%86%B5%20ppt.pptx)
+  - [발표자료](https://github.com/sejongresearch/ClickbaitClassifier/blob/master/%EA%B8%B0%EB%A0%88%EA%B8%B0%ED%86%B5%20ppt.pptx)
