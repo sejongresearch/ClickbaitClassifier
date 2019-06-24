@@ -84,5 +84,5 @@ Clickbait Classsifier
   - 각종 파라미터 조정 : 큰 영향 없었음
 
 + **논문 및 발표자료**
-  - [논문](https://github.com/sejongresearch/ClickbaitClassifier/blob/master/%E1%84%80%E1%85%B5%E1%84%85%E1%85%A6%E1%84%80%E1%85%B5%E1%84%90%E1%85%A9%E1%86%BC%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf)
+  - [논문](https://github.com/sejongresearch/ClickbaitClassifier/blob/master/%EA%B8%B0%EB%A0%88%EA%B8%B0%ED%86%B5%20%EB%85%BC%EB%AC%B8.pdf)
   - [발표자료](https://github.com/rjhwang08/Clickbait-Classifier/blob/master/%EA%B8%B0%EB%A0%88%EA%B8%B0%ED%86%B5%20ppt.pptx)
