@@ -73,7 +73,7 @@ Clickbait Classsifier
   
 프로젝트 완료(~6/23)
 -------------------
-+ **3가지 모델을 이용하여 모델 제작**
++ **3가지 모델을 이용하여 분류기 제작**
   - CNN -> Accuracy : 0.47
   - APS -> Accuracy : 0.49
   - LSTM -> Accuracy : 0.41
